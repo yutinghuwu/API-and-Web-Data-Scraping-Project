@@ -1,0 +1,30 @@
+location,timestamp,day,day part,temperature,rain %,wind,humidity %,description
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Fri 10 ,Night,20°,10%,W 15 km/h,78%,Generally clear. Low 20ºC. Winds W at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sat 11 ,Day,29°,8%,SSW 20 km/h,62%,Generally clear. High 29ºC. Winds SSW at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sat 11 ,Night,21°,7%,WSW 14 km/h,70%,Generally clear. Low 21ºC. Winds WSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sun 12 ,Day,29°,3%,SSW 20 km/h,56%,Generally clear. High 29ºC. Winds SSW at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sun 12 ,Night,21°,8%,WSW 17 km/h,60%,Partly cloudy. Low 21ºC. Winds WSW at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Mon 13 ,Day,29°,3%,S 17 km/h,57%,Generally clear. High 29ºC. Winds S at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Mon 13 ,Night,21°,5%,WSW 15 km/h,66%,Partly cloudy. Low 21ºC. Winds WSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Tue 14 ,Day,29°,5%,SSE 15 km/h,58%,Generally clear. High 29ºC. Winds SSE at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Tue 14 ,Night,21°,5%,WSW 12 km/h,68%,Partly cloudy. Low 21ºC. Winds WSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Wed 15 ,Day,28°,5%,E 16 km/h,62%,Partly cloudy. High 28ºC. Winds E at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Wed 15 ,Night,21°,5%,NE 13 km/h,71%,Generally clear. Low 21ºC. Winds NE at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Thu 16 ,Day,28°,3%,E 17 km/h,63%,Generally clear. High 28ºC. Winds E at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Thu 16 ,Night,22°,7%,WSW 12 km/h,66%,Generally clear. Low 22ºC. Winds WSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Fri 17 ,Day,30°,4%,S 17 km/h,56%,Generally clear. High 30ºC. Winds S at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Fri 17 ,Night,23°,5%,W 14 km/h,60%,Generally clear. Low 23ºC. Winds W at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sat 18 ,Day,30°,4%,S 17 km/h,53%,Generally clear. High 30ºC. Winds S at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sat 18 ,Night,22°,2%,WSW 14 km/h,65%,Generally clear. Low 22ºC. Winds WSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sun 19 ,Day,28°,5%,SE 18 km/h,63%,Generally clear. High 28ºC. ENE winds shifting to SSE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Sun 19 ,Night,21°,21%,ESE 16 km/h,74%,Generally clear. Low 21ºC. Winds ESE at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Mon 20 ,Day,27°,19%,SE 19 km/h,63%,Partly cloudy. High 27ºC. Winds SE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Mon 20 ,Night,20°,12%,SSW 17 km/h,71%,Partly cloudy. Low 20ºC. Winds SSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Tue 21 ,Day,26°,19%,SE 18 km/h,62%,Partly cloudy. High 26ºC. ENE winds shifting to SSE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Tue 21 ,Night,20°,10%,SSW 17 km/h,73%,Partly cloudy. Low 20ºC. Winds SSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Wed 22 ,Day,26°,9%,SE 18 km/h,62%,Partly cloudy. High 26ºC. ENE winds shifting to SSE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Wed 22 ,Night,20°,10%,SW 16 km/h,73%,Partly cloudy. Low 20ºC. Winds SW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Thu 23 ,Day,27°,8%,SSE 18 km/h,63%,Partly cloudy. High 27ºC. ENE winds shifting to SSE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Thu 23 ,Night,20°,4%,SSW 15 km/h,71%,Generally clear. Low 20ºC. Winds SSW at 10 to 15 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Fri 24 ,Day,27°,3%,SSE 19 km/h,62%,Partly cloudy. High 27ºC. Winds SSE at 15 to 25 km/h.
+"Barcelona, Barcelona, Spain",As of 22:01 CEST,Fri 24 ,Night,21°,17%,SW 16 km/h,71%,Generally clear. Low 21ºC. Winds SW at 10 to 15 km/h.
