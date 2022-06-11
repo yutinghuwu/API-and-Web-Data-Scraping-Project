@@ -53,4 +53,4 @@ To finalize both of the projects, I have exported the data into csv files and sa
 
 During the research and execution of this project, the most important lesson learned for me has been to get to understand how each of them work. Specially for APIs, which require to read and understand the reference documentation and communications protocol that is behind.
 
-My final conclusion is that depending on target websites and goals, you may need to use API or web scraping tools, or even both of them :) 
+My final conclusion is that depending on target websites and goals, you may need to use API or web scraping tools, or even both of them 🙂
