@@ -1,6 +1,6 @@
 ![cover](cover.jpg)
 
-# API and Web Scraping Project 
+# API and Web Data Scraping Project 
 
 ## 1. Project Overview
 For this project, I have chosen a REST API to obtain data from, and a web page to scrape data, both by using Python3.
